@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Raj</h1>
-<h3 align="center">A ECE Undergraduate Student who loves exploring new fields.</h3>
+<h3 align="center">An ECE Undergraduate Student who loves exploring new fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalrraj&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalrraj" /> </p>
 
